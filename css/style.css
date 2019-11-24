@@ -1,0 +1,76 @@
+*{
+font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.container{
+	text-align: justify;
+}
+container-fluid{
+    text-align: justify;
+}
+
+.jumbotron{
+	margin-bottom:20px; 
+	padding-top:10px; 
+	padding-bottom:10px;
+}
+table{
+	text-align: center;
+}
+.state_form{
+    float:right;
+}
+.top_left{
+    position: relative;
+}
+#email{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+h2{
+    text-align: justify;
+    padding-top: 40px;
+}
+label{
+    right: 10px;
+}
+#filter{
+    flex-flow:wrap;
+    
+}
+
+#party_check{
+    display:inline-flex;
+    float: left;
+    padding-left: 10px;
+}
+#state_form{
+    display: inline-flex;
+    float: right;
+   padding-right: 10px;
+}
+img{
+    width: 80px;
+}
+img#escudo{
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+   
+.d-flex{
+    
+    top: auto;
+    
+}
+#history{
+    
+   vertical-align: top;
+
+}
+.navbar-nav {
+    
+      color: $navbar-light-color;
+
+    }
